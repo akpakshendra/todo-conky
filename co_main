@@ -1,5 +1,5 @@
 # Boolean value, if true, Conky will be forked to background when started
-background true
+#background true
 
 # Use Xft (anti-aliased font and stuff)
 use_xft yes
